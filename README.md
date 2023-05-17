@@ -32,5 +32,3 @@ This project is licensed under the MIT License.
 
 Contact
 If you have any questions or suggestions regarding the Age In Minutes app, feel free to reach out to me through the GitHub repository.
-
-Please note that this generated README is based on the available information in the repository. Feel free to modify it further to add more details or customize it according to your preferences.
